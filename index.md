@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Website
 
 You can use the [editor on GitHub](https://github.com/sophiastrano/sophiestrano/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### whatcha know about markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Medium text ? maybe 
 ### small text
 
-- Bulleted
+- maybe this is just to demonstrate how we make a text block adn lists 
 - List
 
 1. Numbered
