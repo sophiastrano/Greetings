@@ -4,25 +4,17 @@ My name is Sophia Strano, but since you're here you can call me Sophie. I'm a cu
 
 This is my page dedicated to cataloging some of my favorite projects and experiences, and other occasional updates in my life. Tanti auguri! 
 
-Feel free to download my [resume](https://drive.google.com/file/d/1sVlRORSEMHELC7F14AzlBgDEtV0Yvotr/view?usp=sharing) or visit my social media [instagram](https://www.instagram.com/sophie.strano/)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to download my [resume](file:///C:/Users/sophi/AppData/Local/Temp/Rar$EXa17796.32220/StranoS_Resume.html) or visit my social media [instagram](https://www.instagram.com/sophie.strano/)
 
-### whatcha know about markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### About Me
+I do spend most of my time focused on my studies at WPI, but I manage to squeeze in some fun free time for my hobbies (like my site ;) )
 ```markdown
-Syntax highlighted code block
-
-# Large Text
-## Medium text ? maybe 
-### small text
-
-- maybe this is just to demonstrate how we make a text block adn lists 
-- List
-
-1. Numbered
-2. List
+**Residential Advising** I began work as an RA on WPI campus at the beginning of my sophomore year, right in the middle of the pandemic. Despite the inherent challenges that come with that, I've been really thankful for my position as I'm constantly given the opportunity to organize events for my community and stay involved and in touch with other students (and fuel my love for jackbox games).
+**Technichords Acapella**
+**Musical Theatre Experience**
+**Hiking and Outdoor Exploration**
+**Original Music**
+**Painting and Other Artwork**
 
 **Bold** and _Italic_ and `Code` text
 
