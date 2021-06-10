@@ -1,7 +1,10 @@
-## Welcome to My Personal Website
+## Welcome to Sophia Strano's Page
 
-You can use the [editor on GitHub](https://github.com/sophiastrano/sophiestrano/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Sophia Strano, but since you're here you can call me Sophie. I'm a current Junior at Worcester Polytechnic Institute pursuing a bachelor's in Computer Science as well as a bachelors in Bioinformatics and Computional Biology. 
 
+This is my page dedicated to cataloging some of my favorite projects and experiences, and other occasional updates in my life. Tanti auguri! 
+
+Feel free to download my [resume](file:///C:/Users/sophi/AppData/Local/Temp/Rar$EXa17796.32220/StranoS_Resume.html) or visit my social media [instagram](https://www.instagram.com/sophie.strano/)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### whatcha know about markdown
