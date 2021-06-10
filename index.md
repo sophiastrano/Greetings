@@ -4,7 +4,7 @@ My name is Sophia Strano, but since you're here you can call me Sophie. I'm a cu
 
 This is my page dedicated to cataloging some of my favorite projects and experiences, and other occasional updates in my life. Tanti auguri! 
 
-Feel free to download my [resume](https://docs.google.com/document/d/16Za3Nyq5ed_kSZNGSbfmJmQyZmAeitIFrx4euDb0R10/edit?usp=sharing) or visit my social media [instagram](https://www.instagram.com/sophie.strano/)
+Feel free to download my [resume](https://drive.google.com/file/d/1sVlRORSEMHELC7F14AzlBgDEtV0Yvotr/view?usp=sharing) or visit my social media [instagram](https://www.instagram.com/sophie.strano/)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### whatcha know about markdown
